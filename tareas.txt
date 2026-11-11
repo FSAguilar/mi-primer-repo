@@ -1,3 +1,4 @@
 1. Estudiar Git 
 2. Hacer la guía 1
 
+Tarea duplicada de prueba
